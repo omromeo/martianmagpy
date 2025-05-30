@@ -9,6 +9,6 @@
 </div>
 
 <div style="text-align: center;">
-  <img src="MagnetizationGrids_Geology.png" alt="Geological maps derived from Tanaka et al. 2014, near \textbf{(a)} InSight (white star) and \textbf{(c)} Zhurong (white square). Each map is 1024 $\times$ 1024~km in horizontal extent. An example of the corresponding magnetization grids, which also account for local elevation, are shown for \textbf{(b)} InSight (white star) and \textbf{(d)} Zhurong (white square). The magnetization for each region was selected on a scale of $\pm$10~A~m$^{-1}$ and spatially filtered to smooth the magnetic field near unit boundaries." width="300"/>
+  <img src="images/MagnetizationGrids_Geology.png" alt="Geological maps derived from Tanaka et al. 2014, near \textbf{(a)} InSight (white star) and \textbf{(c)} Zhurong (white square). Each map is 1024 $\times$ 1024~km in horizontal extent. An example of the corresponding magnetization grids, which also account for local elevation, are shown for \textbf{(b)} InSight (white star) and \textbf{(d)} Zhurong (white square). The magnetization for each region was selected on a scale of $\pm$10~A~m$^{-1}$ and spatially filtered to smooth the magnetic field near unit boundaries." width="300"/>
 </div>
 
